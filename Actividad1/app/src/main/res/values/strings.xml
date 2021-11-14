@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Actividad1</string>
+    <string name="cronoDescription">Imagen de un cronometro</string>
+    <string name="contadorDescription">Imagen de un contador</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="resume">RESUME</string>
+    <string name="reset">RESET</string>
+    <string name="contador0">0</string>
+    <string name="add">+</string>
+</resources>
